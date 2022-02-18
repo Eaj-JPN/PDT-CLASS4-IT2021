@@ -1,2 +1,5 @@
 # PDT-CLASS4-IT2021
-I Gede Putra Wijaya
+President University
+Name : I Gede Putra Wijaya
+NIM : 001202100115
+Class : IT 4 2021
